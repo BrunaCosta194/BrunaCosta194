@@ -1,3 +1,6 @@
+![Header](./your-header-image-name.png)
+
+
 # 👩🏻‍💻 Bruna Costa Hayata
 
  Olá me cha Bruna tenho 31 anos e moro em mogi das cruzes, Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos básicos em programação (HTML, CSS, JavaScript, PHP, C, C++, bancos de dados e Java). Tenho mais de 5 anos de experiência como gerente de loja, liderando equipes, gerenciando compras e otimizando operações administrativas, além de habilidades em atendimento ao cliente e vendas online. Busque uma oportunidade em TI para aplicar minhas habilidades técnicas e experiência em gestão e organização. 
