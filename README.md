@@ -2,8 +2,19 @@
 
 # 👩🏻‍💻 Bruna Costa Hayata
 
- Olá me cha Bruna tenho 31 anos e moro em mogi das cruzes, Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos básicos em programação (HTML, CSS, JavaScript, PHP, C, C++, bancos de dados e Java). Tenho mais de 5 anos de experiência como gerente de loja, liderando equipes, gerenciando compras e otimizando operações administrativas, além de habilidades em atendimento ao cliente e vendas online. Busque uma oportunidade em TI para aplicar minhas habilidades técnicas e experiência em gestão e organização. 
+Desenvolvedora Backend em formação, cursando Ciência da Computação no Centro Universitário Braz Cubas (previsão: 2028) e já graduada em Análise e Desenvolvimento de Sistemas.
 
+Trabalho com Java, Spring Boot e REST API no desenvolvimento de APIs, aplicando arquitetura em camadas (Controller, Service, Repository) e boas práticas de desenvolvimento backend. Tenho experiência também com Python para automação, além de SQL, Git e noções de React no frontend.
+
+Projetos que desenvolvi:
+
+• Finance App — API REST completa em Java + Spring Boot com autenticação JWT, integrada a frontend React/Vite. Deploy no Vercel.
+
+• Automação de Vídeos — pipeline Python + FFmpeg para processamento em lote de vídeos, com anti-duplicação, overlays e organização automática de arquivos.
+
+
+
+Busco estágio em desenvolvimento backend (Java/Spring Boot) ou fullstack onde eu possa contribuir com código real, aprender com times experientes e crescer na carreira.
 
 
 ### 🤖 Linguagens e Tecnologias
