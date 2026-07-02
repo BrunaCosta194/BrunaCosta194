@@ -3,19 +3,16 @@
 # 👩🏻‍💻 Bruna Costa Hayata
 
 Desenvolvedora Backend em formação, cursando Ciência da Computação no Centro Universitário Braz Cubas (previsão: 2028) e já graduada em Análise e Desenvolvimento de Sistemas.
-
-Trabalho com Java, Spring Boot e REST API no desenvolvimento de APIs, aplicando arquitetura em camadas (Controller, Service, Repository) e boas práticas de desenvolvimento backend. Tenho experiência também com Python para automação, além de SQL, Git e noções de React no frontend.
-
+Trabalho com Java, Spring Boot e APIs REST, aplicando arquitetura em camadas (Controller, Service, Repository) e boas práticas de desenvolvimento backend. Tenho também experiência com Python para automação, SQL, Git e noções de React no frontend. Uso ferramentas de IA (como o Claude) no meu dia a dia de desenvolvimento para ganhar produtividade, e já integrei a API da Anthropic (Claude) em projeto real para triagem automatizada. Complementei essa base com o Bootcamp de Inteligência Artificial Generativa do Santander. Um diferencial do meu perfil é que já entrego projetos reais em produção de ponta a ponta — do backend ao deploy.
 Projetos que desenvolvi:
 
-• Finance App — API REST completa em Java + Spring Boot com autenticação JWT, integrada a frontend React/Vite. Deploy no Vercel.
+Connect — CRM Imobiliário (Fullstack): plataforma que centraliza clientes, contratos e consórcios, com backend em Supabase (autenticação e controle de acesso por papel/RLS), importação de CSV com validação, Ficha 360° do cliente, Kanban de tarefas com SLA, dashboards e auditoria de alterações. Frontend em React 19 + TypeScript. Deploy no Vercel.
+Finance App: API REST completa em Java + Spring Boot com autenticação JWT, integrada a frontend React/Vite. Deploy no Vercel.
+Automação de Vídeos: pipeline em Python + FFmpeg para processamento em lote, com anti-duplicação, overlays e organização automática de arquivos.
+Geração de Leads com IA: automação em Python + n8n com triagem de leads via API da Claude (Anthropic), integrada a WhatsApp e Supabase.
 
-• Automação de Vídeos — pipeline Python + FFmpeg para processamento em lote de vídeos, com anti-duplicação, overlays e organização automática de arquivos.
-
-
-
-Busco estágio em desenvolvimento backend (Java/Spring Boot) ou fullstack onde eu possa contribuir com código real, aprender com times experientes e crescer na carreira.
-
+Busco estágio em desenvolvimento backend (Java/Spring Boot) ou fullstack, onde eu possa contribuir com código real, aprender com times experientes e crescer na carreira.
+Disponível para: Presencial · Híbrido | Mogi das Cruzes, SP e região.
 
 ### 🤖 Linguagens e Tecnologias
 
